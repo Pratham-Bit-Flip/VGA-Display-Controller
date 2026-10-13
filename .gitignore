@@ -1,0 +1,10 @@
+*.jou
+*.log
+*.str
+*.wdb
+*.vcd
+*.bit
+*.bin
+*.mcs
+*.tmp
+.DS_Store
